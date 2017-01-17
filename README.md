@@ -1,5 +1,2 @@
 # abc
 web
-hi
-vijay
-////
